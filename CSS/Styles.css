@@ -55,3 +55,6 @@ h2 {
     font-style: italic;
     text-align: center;
 }
+aside p a {
+    color: #F5888A;
+}
